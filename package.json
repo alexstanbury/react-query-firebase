@@ -1,5 +1,5 @@
 {
-  "name": "@react-query-firebase/root",
+  "name": "@react-query-firebase",
   "private": true,
   "description": "React Query hooks for Firebase.",
   "keywords": [
